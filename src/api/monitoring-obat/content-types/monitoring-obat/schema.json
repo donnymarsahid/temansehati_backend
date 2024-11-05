@@ -24,9 +24,6 @@
       "type": "enumeration",
       "enum": ["Sudah Minum", "Telat Minum", "Telat Info"]
     },
-    "drinkingTime": {
-      "type": "string"
-    },
     "faskes": {
       "type": "string"
     },
