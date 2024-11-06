@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "questionnaire_results",
+  "info": {
+    "singularName": "questionnaire-result",
+    "pluralName": "questionnaire-results",
+    "displayName": "questionnaire_result"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "patient_name": {
+      "type": "string"
+    },
+    "no_regnas": {
+      "type": "string"
+    },
+    "score": {
+      "type": "integer"
+    },
+    "result_desc": {
+      "type": "text"
+    }
+  }
+}

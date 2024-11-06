@@ -133,6 +133,10 @@
     },
     "no_identitas": {
       "type": "text"
+    },
+    "is_questionnaire": {
+      "type": "boolean",
+      "default": false
     }
   }
 }

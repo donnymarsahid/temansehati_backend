@@ -4,7 +4,8 @@
   "info": {
     "singularName": "obat",
     "pluralName": "obats",
-    "displayName": "Obat"
+    "displayName": "Obat",
+    "description": ""
   },
   "options": {
     "draftAndPublish": false
@@ -14,6 +15,12 @@
     "name": {
       "type": "string",
       "required": true
+    },
+    "stock_drugs": {
+      "type": "integer"
+    },
+    "description": {
+      "type": "text"
     }
   }
 }

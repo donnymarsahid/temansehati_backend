@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "take_medicines",
+  "info": {
+    "singularName": "take-medicine",
+    "pluralName": "take-medicines",
+    "displayName": "take_medicine"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "patient_name": {
+      "type": "string"
+    },
+    "no_regnas": {
+      "type": "string"
+    },
+    "date_take_medicine": {
+      "type": "datetime"
+    },
+    "drug_name": {
+      "type": "string"
+    },
+    "stock_desc": {
+      "type": "text"
+    }
+  }
+}
