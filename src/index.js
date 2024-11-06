@@ -24,9 +24,9 @@ module.exports = {
     var serviceAccount = {
       type: "service_account",
       project_id: "mobiarv",
-      private_key_id: "c64ddd7d77e47cfce39195aa98939fe0e1670a54",
+      private_key_id: "c264209ecbda7589ca925b0d995cbb0179281570",
       private_key:
-        "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCdY7SZe0aYHqFv\npAaqn9LeqLKyD+WtfeDKfKcRho0q+hdiBbX2qwGs6EsVXynaEIbfhw6Nd0NEvAKu\nwRTrXosBt79WhNQrUhgL5hICTdTRXFTtd368CaQ9AQ5WYn9tX9THfJ6uhmyBCIP6\nKPFrvirt/UuyUSQ1339iLGln89kAmpDXedUvOi+61xiDjx1HxLdaVfpDtow0bqge\nWcea55tlZv99Z+eDUs+9RLP2XLruOKb69J7ZB8OYm8zRtrSASfrAcsGPTar9tgnp\ngnVARbbHnjpCndoQaGXnUKibdXk0G3poAl9WjIAgLiv57Z9GScwkWOUnR+JkIpzE\nNn0hYfQlAgMBAAECggEAAYsiVBe8vngqbnMW2iyD3fiPFi1f/0cEMq7mbRD33ldE\nAlV6sBEYDLe1G1KTQGsjwf9gDFg4NOaYED8KcyMY4RoXV/15inU4MuNbsooIz4AS\nLNTZJSVO9HlA/ktN40wZy5mqWQjrBuly3KDlsF53gtaPsDEtJvhPsWrOc2dY0tnp\n4wfwERlX6vuDiN7QVvr9TjKoTq+pOrusL0pXf40SZKeBtSIX7gTPxWjhNrnz8qj6\n9OVRyiLdWK9PAObL+dPJVT77z3/QCf4ttWlWuA6kFzkRHN2Jg19fMn0x7rfquGRl\nbIxG0YTekWSS/qQBn+LjI3ePvVBdnQEvWXLjP7biwQKBgQDVdyeKfp2oOB0KW/h2\nNg343YwK8keWVAMKNfCla7ZYvsuMfSfHIagMsy+ShXvuEJ2Pa8EnKBG0EW4E1oH3\nl/qvEWczPOU9jwiZr0qfldA8c8soOdy2piaul5H579Rtvn4WHyv6UTMDHMm/kgGM\nJMUSQIOzHzqImej753BEKHwhxQKBgQC8wB9qXLKOPGuXXgISTs6/xoXfpaMGvga6\nx4IB6UgR/MxMLuFFfsYGccBl4zYgh352GnAQJcNAT+tVqmLVdYhz3ncL5vNZoCY8\nU7ZUt33F5Ldb2psQX7nqeg0GJSSjZchbYvu7ZmPHRH3FiDISe11jWKsiEJBBy8s9\nDXvTtSmO4QKBgAaAVof1Sz/wVZIXMv4Gr25A8R70OhHuBRmuguHG4grZ5MEmnquF\n7uRUIMLJpfieMO5JTdyvb7qYPU2QauzriAsE8Kuy0xiI3q4vlIo/udPdgvZ6rKoz\nbUIsA5olH8cn4hcyY9h/2JnjqpFXFQz7obTomho+fT3j0iC578VjpkQxAoGAIvm2\n2I60x4aKqVHSMHJJ/V9cD0UyIF22AYZWoOQJZsvhT3ygYbBMIYWSkU65CO4SkO/1\nNAjLVW95vDYGemd9EXt3s8zn6wOyEhuw/aHCvJjVIUAw26fhW4GiSDE5yM1jgwuk\neeVPN+2JIMFMBgC2HWKg038ePBL3ZijJeUFoogECgYBmrpsN4tt45b9VZhof5Ych\nK2b6WOSuFOTRT0h+oeiXhGrCvHZLlxCUZf76SNMEsw24cBaIQbMz1f7krXaBczXI\npZCGLjHJx0cUdoVvai6ByfwzP0hYGsDPfOV4fXcsXd5PfNJ1nDzMeJ3xgxq1N3tr\notwklSR4GlxGkC5wpd84zg==\n-----END PRIVATE KEY-----\n",
+        "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCK8MC0lTBKAsQ2\n1TKy+H0OX2Lt01BR3Y9rEpV/+7FbeaGivrSpd7thCd4733c72QUee5lDNql9AzMs\nWkOdfQ+ASeObglYaXiQ8NU17VejLYt3rxr5hKdUvu4KVSqfliEJGdO749MugbomC\nyWmlVJ7nzub9hjYv03D/mBYUFml+Gt/QhcTngNoJ8+989zjVCIeD6+UWFYtlhGPj\nJ8a1yTHL1t+8uWNi/qJ5B4stp/pmpgQTkMPJqUmfsT4i2nBEHZUnlXsdy89W6VFZ\ny7ROfTfnHQd45NtuTE8LEpm64PqEpTvNfwDBhB2Qf8noSlpgqPunZc8BrINufDo6\ndGVB0pPRAgMBAAECggEAA/8h4+/orYWqhD3vZpOG8WC6tUb0qAOHX8KZ7KOzpIMk\nAaJFCxznwHEAD1ksZ7B57mMKyRKrnxjLojUkfcVo/+fgNWBzPptCT+hj8VjKyKhF\njvCEGG0Tdfs0VJFgXAC75fqbcdYvfKQWrjLsqDX+GNfsRWhUwF0aLS1Vm+qlyoag\n2zkCvVy/op9xYIJFyQjPa3ViJtKTv0Qo85cCkRrWGqSXtUl0FGqb1QCGzna8262J\nFGiKDPuuw2kmZLY0afr6NIaqNyxb/iT8bTgdmTHxyWR7BiDFMpuc7xu8ypPqRgJO\nbzxD/nhmlP8QsIhxFQsZ1xUEO1q2e6k1VrcvqPcMIQKBgQC/lRlBj4RQmc8abYol\nedKfDwoWgQ0ZurS6JMBa+a2hSi511X4Aoc+xDBwB5bRNjckTtMD7mNLNbh0V4ozR\nlETtZaYdF/qbY9YGcRhaqAPJ4dP/pvgXvIACOKSrMcLGqAgWrdED8QFtzWAvRjrW\nZFQb0dg+P4YMW1ZPkRPhglAeWQKBgQC5qF+vcx/1JH6MgYVAt1Aw4/IK2Rqnazm8\nePL0IJaF3zH/DB/Ks8giNPIUnC9tazLi1/L1f6iwJV5ogH/Na9OmoB3YTqmBSQ91\nP/HGEIxxnmfG/B4mexMuMTza0yrOf+Ye9kHLSNF8q9Y/lygIrxsnX9YhA9aX4wzL\nU1LWsxQiOQKBgG2aKfHE3kiSRdZztmXMNP/ERdwsBkei9cPMRLOHRZsRalUFR2mr\nKLu8FsXLGQSJSfDZJtKJUoguJ7ueeTtpHKnHzmm0jy2Yxxe2Wd17Y3d6l6MZbbN+\npqkeqK478JdgCAiZdgtQNKYRqaZCAmUmzqt/uLub8d9d3Zn1gK8xsw45AoGBAKXT\nJePnyBuFRSLqbMKo+Q8yCfZ2g8AVnbQhs58pnEhmWpmbkqnSemdTMwYFmrb4kLLc\nfz2XkGwEdJaSb5RjQuAJE58oY23+e7gWLTTjgw3Yloi8l5F3TGJtyBULl6hpxHjT\nK2EO4U2hjfOuZyuae35nszI542o2ei8BdXQe71TBAoGBAI8VDm9cJix4qvsbHv9S\nD+hmkzFQMADqyMaSp1nG1ug6j/QP77jqm3Gl2jfGBUh8bs3AuiYSDKOqWau3zmQ9\nkHa7i7JHuufdXLWYat3LdIQ3pNHpocvOt/+/SVUmwhYZTTi98hG83/0m1kQAnc/n\nBS9CSTabdp37+G0FexXoSrmN\n-----END PRIVATE KEY-----\n",
       client_email: "firebase-adminsdk-tfpt7@mobiarv.iam.gserviceaccount.com",
       client_id: "109469257614539174966",
       auth_uri: "https://accounts.google.com/o/oauth2/auth",
@@ -61,11 +61,11 @@ module.exports = {
         if (now === medicationTime) {
           const message = {
             notification: {
-              title: "Saatnya Minum Obat",
-              body: "Sudah Jam-nya minum obat yuk.. lapor...",
+              title: "Saatnya Minum Obat!",
+              body: "Sudah Saatnya Minum Obat",
             },
             data: {
-              type: "waktunya minum obat",
+              type: "Saatnya Minum Obat!",
             },
             android: {
               notification: {
