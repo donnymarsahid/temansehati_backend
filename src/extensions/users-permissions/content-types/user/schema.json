@@ -68,7 +68,8 @@
     },
     "no_regnas": {
       "type": "string",
-      "required": false
+      "required": false,
+      "default": "-"
     },
     "no_handphone": {
       "type": "string",
@@ -137,6 +138,15 @@
     "is_questionnaire": {
       "type": "boolean",
       "default": false
+    },
+    "address_id": {
+      "type": "text"
+    },
+    "place_birth": {
+      "type": "string"
+    },
+    "date_place_birth": {
+      "type": "datetime"
     }
   }
 }
