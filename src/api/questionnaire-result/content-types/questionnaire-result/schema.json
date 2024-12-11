@@ -4,7 +4,8 @@
   "info": {
     "singularName": "questionnaire-result",
     "pluralName": "questionnaire-results",
-    "displayName": "questionnaire_result"
+    "displayName": "questionnaire_result",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -22,6 +23,12 @@
     },
     "result_desc": {
       "type": "text"
+    },
+    "interventionStatus": {
+      "type": "boolean"
+    },
+    "interventionDate": {
+      "type": "datetime"
     }
   }
 }
