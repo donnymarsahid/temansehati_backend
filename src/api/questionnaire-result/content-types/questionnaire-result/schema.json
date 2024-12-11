@@ -25,7 +25,8 @@
       "type": "text"
     },
     "interventionStatus": {
-      "type": "boolean"
+      "type": "boolean",
+      "default": false
     },
     "interventionDate": {
       "type": "datetime"
