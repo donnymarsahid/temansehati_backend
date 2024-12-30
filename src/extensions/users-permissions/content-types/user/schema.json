@@ -147,6 +147,9 @@
     },
     "date_place_birth": {
       "type": "datetime"
+    },
+    "totalVisits": {
+      "type": "integer"
     }
   }
 }
