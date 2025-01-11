@@ -22,7 +22,11 @@
     },
     "status": {
       "type": "enumeration",
-      "enum": ["Sudah Minum", "Telat Minum", "Telat Info"]
+      "enum": [
+        "Sudah Minum",
+        "Telat Minum",
+        "Telat Info"
+      ]
     },
     "faskes": {
       "type": "string"
@@ -32,6 +36,9 @@
     },
     "drinking_time": {
       "type": "string"
+    },
+    "remaining_medicine": {
+      "type": "integer"
     }
   }
 }
